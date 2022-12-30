@@ -1,0 +1,2 @@
+carrier freq: 40
+number of pulses: 5
