@@ -1,0 +1,2 @@
+carrier fre = 10
+number of pulses = 5
