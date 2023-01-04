@@ -1,4 +1,0 @@
-1st sine wave: 50
-2nd sine wave carrier: 100
-periodic bpm: 10
-amplitude: 2

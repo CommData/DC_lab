@@ -1,0 +1,4 @@
+1st sin wave == 10
+2nd sin wave carrier == 20
+periodic bpm 5
+amplitude = 2
